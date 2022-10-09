@@ -47,7 +47,11 @@ h3 {
   margin: 0 auto;
   padding: 0 30px;
 }
-
+.card img {
+  width:100%;
+  height:auto;
+  border-radius:5px;
+}
 .btn {
   display: inline-block;
   padding: 0.5rem 1rem;
